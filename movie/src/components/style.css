@@ -1,0 +1,28 @@
+.component{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    padding: 10px;
+}
+
+.year{
+    font-size: 20px;
+    background-color: transparent;
+}
+
+.mvetype{
+    background-color: transparent;
+    font-size: 15px;
+}
+
+.mvename{
+    background-color: transparent;
+    font-size: 30px;
+}
+
+.bottom{
+    background-color: transparent;
+    position: absolute;
+    bottom: 10px;
+}
